@@ -1,4 +1,4 @@
-## Hi there 👋
+# Välkommen Till Storsjögymnasiets Github Repo 👋
 
 <!--
 
