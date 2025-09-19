@@ -1,5 +1,12 @@
 # Välkommen Till Storsjögymnasiets Github Repo 👋
+Här skapar alla elever som går programmering eller webbutveckling sina egna repo
 
+## Namngivning av repo
+Elevernas repo ska följa strukturen:
+> kursnamn-förnamn-efternamn
+
+Exempel:
+> programmering-hasse-andersson
 <!--
 
 **Here are some ideas to get you started:**
