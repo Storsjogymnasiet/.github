@@ -7,6 +7,7 @@ Elevernas repo ska följa strukturen:
 
 Exempel:
 > programmering-hasse-andersson
+
 **Glöm inte att sätta repot till private så att andra inte kan använda din kod!**
 <!--
 
